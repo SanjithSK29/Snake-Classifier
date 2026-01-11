@@ -1,4 +1,4 @@
-**Snake Classification — Notebook Summary**
+*Snake Classification — Notebook Summary*
 
 This repository contains a Jupyter notebook for training and evaluating a binary snake image classifier (Venomous vs Non_Venomous) using a pretrained backbone from `timm`. The notebook, dataset layout, training pipeline, cross-validation, and error-analysis steps are documented below.
 
