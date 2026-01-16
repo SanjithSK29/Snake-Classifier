@@ -1,0 +1,8 @@
+*.pth
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Snake_Images/
